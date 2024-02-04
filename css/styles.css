@@ -196,7 +196,7 @@ span.header-logo-color {
 
 .advantages-list {
   display: flex;
-  column-gap: 24px;
+  gap: 24px;
 }
 
 .advantages-list-item {
@@ -231,12 +231,12 @@ span.header-logo-color {
   line-height: 1.11;
   letter-spacing: 0.02em;
   text-transform: capitalize;
+  margin-bottom: 72px;
 }
 
 .team-list {
   display: flex;
   gap: 24px;
-  padding-top: 72px;
 }
 
 .team-list-item {
@@ -283,7 +283,7 @@ span.header-logo-color {
   line-height: 1.11;
   letter-spacing: 0.02em;
   text-transform: capitalize;
-  padding-bottom: 72px;
+  margin-bottom: 72px;
 }
 
 .portfolio-list {
